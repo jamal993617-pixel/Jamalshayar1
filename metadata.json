@@ -1,0 +1,6 @@
+{
+  "name": "Jamal Shayar",
+  "description": "Premium Jamal Shayar app featuring Trending Categories, beautiful Image Creator, Live AI Generator, offline database caching, and a comprehensive Admin Panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
